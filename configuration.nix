@@ -105,6 +105,7 @@
   withOpenASAR = true;
   withVencord = true;
 })
+  pkgs.prismlauncher
   ];
 
   # Some programs need SUID wrappers, can be configured further or are
